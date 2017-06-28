@@ -26,7 +26,6 @@ export class InboxPage {
   }
 
   navigateToSearchUserPage() {
-    alert(1)
     this.navCtrl.push('SearchUserPage');
   }
 
