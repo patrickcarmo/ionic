@@ -13,7 +13,6 @@ import { AngularFireAuthModule } from 'angularfire2/auth';
 import { DataService } from './../providers/data/data.service';
 import { FormsModule } from "@angular/forms";
 
-
 @NgModule({
   declarations: [
     MyApp
