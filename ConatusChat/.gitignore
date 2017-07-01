@@ -11,7 +11,7 @@ log.txt
 *.sublime-workspace
 .vscode/
 npm-debug.log*
-src/app/app.firebase.config.ts
+
 .idea/
 .sass-cache/
 .tmp/
@@ -28,7 +28,8 @@ plugins/android.json
 plugins/ios.json
 www/
 $RECYCLE.BIN/
-
+tslint.json
+src/app/app.firebase.config.ts
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
